@@ -11,7 +11,9 @@ if name == "":
   print("Question: " + question)
 
 if question == "":
-  print("You didn't ask a question")
+  print("The Magic 8-Ball cannot provide a fortune unless you ask it something.")
+else: 
+  print(name + question)
 
 print(random_number)
 
