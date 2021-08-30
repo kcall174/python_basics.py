@@ -5,7 +5,10 @@ import random
 name = "Kenneth"
 question = "Are you awake?"
 answer = ""
-random_number = random.randint(1,9)
+random_number = random.randint(1,11)
+
+if name == "":
+  print("Question: " + question)
 
 print(random_number)
 
@@ -27,8 +30,13 @@ elif random_number == 8:
   answer = "Outlook not so good"
 elif random_number == 9:
   answer = "Very doubtful."
+elif random_number == 10: 
+  answer = "Aren't you watching TV?"
+elif random_number == 11: 
+  answer = "Are you still watching TV?"
 else: 
   answer = "Error"
 
 print(name + " asks: " + question)
 print("Magic 8-Ball's answer:" + answer)
+
