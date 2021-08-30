@@ -1,7 +1,9 @@
 #python3
 
+
+
 #GROUND SHIPPING VARIABLES
-weight = 41.5
+weight = 41.5             #change this number 
 ground_cost = 20.00
 drone_shipping_cost = 0
 premium_ground_cost = 125
