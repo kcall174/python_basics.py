@@ -10,6 +10,9 @@ random_number = random.randint(1,11)
 if name == "":
   print("Question: " + question)
 
+if question == "":
+  print("You didn't ask a question")
+
 print(random_number)
 
 if random_number == 1:
@@ -39,4 +42,5 @@ else:
 
 print(name + " asks: " + question)
 print("Magic 8-Ball's answer:" + answer)
+
 
