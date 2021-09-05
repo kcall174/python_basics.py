@@ -15,6 +15,13 @@ the entire list can be wound here: https://docs.python.org/3/py-modindex.html
 #.instert(x, "info") will insert "info" at "x" index. 
 
 
+.append()
+#add something to the end of a list
+
+
+
+
+
 
 
 
