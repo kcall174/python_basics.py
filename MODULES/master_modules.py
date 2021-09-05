@@ -5,12 +5,12 @@
 the entire list can be wound here: https://docs.python.org/3/py-modindex.html
 '''
 
-#.pop()
+.pop()
 #removes elements of a list
 #.pop() will remove the last element automatically
 
 
-#.insert()
+.insert()
 #insert something somewhere
 #.instert(x, "info") will insert "info" at "x" index. 
 
