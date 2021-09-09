@@ -18,6 +18,14 @@ the entire list can be wound here: https://docs.python.org/3/py-modindex.html
 .append()
 #add something to the end of a list
 
+.zip()
+'''
+a = ("John", "Charles", "Mike")
+b = ("Jenny", "Christy", "Monica")
+
+x = zip(a, b)
+'''
+#zip then use (list) to new variable to print combined list. 
 
 
 
