@@ -1,3 +1,6 @@
+#python3
+#limes.py -- this file will show 3 different colored lines on a graph to represent an arbitrary correlation between limes being sold, and visits / page views of a website. 
+
 from matplotlib import pyplot as plt
 
 months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
