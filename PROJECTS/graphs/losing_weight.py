@@ -1,4 +1,5 @@
-# python3
+#! python3
+# losing_weight.py -- lien plot showing decrease in weight (lbs) in relation to months. 
 from matplotlib import pyplot as plt
 
 # Data sets -- I used my weight here for an example.
