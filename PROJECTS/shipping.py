@@ -1,7 +1,3 @@
-#python3
-
-
-
 #GROUND SHIPPING VARIABLES
 weight = 41.5             #change this number 
 ground_cost = 20.00
