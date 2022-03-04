@@ -1,3 +1,6 @@
+#! python3
+#  shipping.py -- an example of automating a process of deciding what shipping to use for packages. 
+
 #GROUND SHIPPING VARIABLES
 weight = 41.5             #change this number 
 ground_cost = 20.00
