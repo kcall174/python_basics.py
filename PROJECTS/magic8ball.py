@@ -1,3 +1,6 @@
+#! python3
+#  magic8ball.py -- automation of magic8ball -- takes user input and replies back
+
 import random
 
 name = "Kenneth"
