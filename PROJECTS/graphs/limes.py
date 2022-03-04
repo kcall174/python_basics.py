@@ -1,5 +1,6 @@
 #python3
-#limes.py -- this file will show 3 different colored lines on a graph to represent an arbitrary correlation between limes being sold, and visits / page views of a website. 
+#limes.py -- this file will show 2 graphs, the left plot showing page visits per month of a website, and 3 species of lime sales per month. This shows some interesting correlation,
+#but ultimately was used just to give examples of different colored lines, markers, and other things I could do with matplotlib. 
 
 from matplotlib import pyplot as plt
 
