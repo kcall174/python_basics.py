@@ -1,12 +1,6 @@
-#python3
 #initials.py - program that outputs users name into ascii art (not automated)
+#name = K Call
 
-
-#this is the first project codeacademy offers
-
-
-#name = Kenneth Call
-#funfact = I drink cold coffee only 
 
 name = '''
 K     K   CCC
