@@ -1,5 +1,5 @@
 #! python3
-# error_bars.py -- Adding error lines to a line graph. 
+#  error_bars.py -- Adding error lines to a line graph. 
 
 from matplotlib import pyplot as plt
 
